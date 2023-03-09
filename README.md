@@ -12,4 +12,4 @@ It made the code look more clean for any other developers who read it.
 I leared more about how to use semantic elements and apply them to CSS.
 
 
-![Screenshot-of-my-webpage](./First-bootcamp-challange/assets/images/screenshot.png)
+![Screenshot-of-my-webpage](./assets/images/screenshot.png)
