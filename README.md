@@ -10,6 +10,7 @@ My motivation was lerning how to refactor html code.
 It made the code look more clean for any other developers who read it.
 - What did you learn?
 I leared more about how to use semantic elements and apply them to CSS.
-  (https://heber-marcano.github.io/First-bootcamp-challange/)
+  
+https://heber-marcano.github.io/First-bootcamp-challange/
 
 ![Screenshot-of-my-webpage](./assets/images/screenshot.png)
